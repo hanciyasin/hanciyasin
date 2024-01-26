@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there 👋, Hi There
+#### I am Yasin. I am a Software Development Engineer in Test (SDET) and lawyer. 
+![I am Yasin. I am a Software Development Engineer in Test (SDET) and lawyer. ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I am Yasin. I am a Software Development Engineer in Test (SDET) and lawyer. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanciyasin)](https://github.com/anuraghazra/github-readme-stats)
+Skills: JAVA / SQL / JENKINS / JMETER / CUCUMBER / SELENIUM / API / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
